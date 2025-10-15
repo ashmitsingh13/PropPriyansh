@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏠 Prop Priyansh — Trusted Property Consultant in Dholera, Gujarat
 
-## Getting Started
+Welcome to **Prop Priyansh**, a modern real estate website built using **Next.js**, **Tailwind CSS**, and **TypeScript**.  
+This platform helps users **Buy, Sell, Rent, or Invest** in premium residential and commercial properties in **Dholera Smart City, Gujarat**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Prop Priyansh is designed to provide a seamless real estate experience with a **modern UI**, **SEO optimization**, and **responsive design**.  
+The platform ensures that users can easily explore and connect with trusted property dealers in **Dholera, Gujarat**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Tech Stack
 
-## Learn More
+| Technology | Description |
+|-------------|-------------|
+| **Next.js 15.5.4 (App Router)** | React-based framework for server-side rendering and routing |
+| **Tailwind CSS v4** | Utility-first CSS framework for beautiful and responsive design |
+| **TypeScript** | Type-safe JavaScript for better scalability and reliability |
+| **React 19.1.0** | Latest React version for enhanced performance |
+| **shadcn/ui** | Elegant prebuilt UI components for modern design |
+| **Lucide React** | Beautiful icons for enhanced user interface |
+| **Web3Forms** | Contact form integration for seamless communication |
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🏘️ **Property Management**
+- **Property Listings**: Browse residential and commercial properties
+- **Advanced Filtering**: Filter by type, price range, and location
+- **Search Functionality**: Quick property search with real-time results
+- **Property Details**: Comprehensive property information with images
 
-## Deploy on Vercel
+### 🔧 **Services**
+- **Investment Consultation**: Expert guidance for property investments
+- **Legal Support**: Documentation and legal assistance
+- **Property Management**: End-to-end property management services
+- **Market Analysis**: Real estate market insights and trends
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 📱 **User Experience**
+- **Responsive Design**: Optimized for mobile, tablet, and desktop
+- **Mobile Navigation**: Touch-friendly hamburger menu for small screens
+- **Fast Loading**: Optimized performance with Next.js App Router
+- **SEO Optimized**: Better search engine visibility
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📞 **Contact & Communication**
+- **Contact Form**: Web3Forms integration for reliable message delivery
+- **Multiple Contact Options**: Phone, email, and office location
+- **Real-time Validation**: Form validation with error handling
+- **Success Notifications**: User feedback for form submissions
+

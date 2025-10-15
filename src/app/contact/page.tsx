@@ -22,7 +22,7 @@ const Label = ({ htmlFor, className, children, ...props }: {
   htmlFor?: string;
   className?: string;
   children: React.ReactNode;
-  [key: string]: any;
+  [key: string]: unknown;
 }) => {
   return (
     <label htmlFor={htmlFor} className={className} {...props}>
@@ -34,7 +34,7 @@ const Label = ({ htmlFor, className, children, ...props }: {
 // Textarea component
 const Textarea = ({ className, ...props }: {
   className?: string;
-  [key: string]: any;
+  [key: string]: unknown;
 }) => {
   return (
     <textarea 
@@ -231,8 +231,8 @@ export default function ContactPage() {
                 GET IN TOUCH
               </h2>
               <p className="font-paragraph text-lg text-secondary/80 mb-12">
-                We're here to help you with all your real estate needs. Contact us through any of the 
-                following methods, and we'll get back to you promptly.
+                We&apos;re here to help you with all your real estate needs. Contact us through any of the 
+                following methods, and we&apos;ll get back to you promptly.
               </p>
 
               <div className="space-y-8">
@@ -303,7 +303,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-heading text-xl text-secondary mb-2">BUSINESS HOURS</h3>
-                        <p className="font-paragraph text-secondary/70 mb-2">We're available when you need us</p>
+                        <p className="font-paragraph text-secondary/70 mb-2">We&apos;re available when you need us</p>
                         <p className="font-paragraph text-secondary">
                           Monday - Sunday<br />
                           9:00 AM - 9:00 PM<br />
@@ -329,7 +329,7 @@ export default function ContactPage() {
                       <div className="flex items-center">
                         <CheckCircle className="w-5 h-5 text-primary mr-2" />
                         <p className="font-paragraph text-primary font-semibold">
-                          Your message has been sent! We'll get back to you soon.
+                          Your message has been sent! We&apos;ll get back to you soon.
                         </p>
                       </div>
                     </div>
@@ -526,7 +526,7 @@ export default function ContactPage() {
               <CardContent className="p-6">
                 <h3 className="font-heading text-xl text-secondary mb-3">What documents do you need for property purchase?</h3>
                 <p className="font-paragraph text-secondary/70">
-                  We'll guide you through all documentation requirements including identity proof, 
+                  We&apos;ll guide you through all documentation requirements including identity proof, 
                   address proof, income documents, and help with loan processing if needed.
                 </p>
               </CardContent>

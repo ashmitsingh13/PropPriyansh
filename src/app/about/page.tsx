@@ -8,7 +8,6 @@ import { Image } from '@/components/ui/image';
 import { 
   Phone, 
   Mail, 
-  MapPin,
   Users, 
   Award, 
   Star, 
@@ -126,7 +125,7 @@ export default function AboutPage() {
           </h1>
           <p className="font-paragraph text-lg text-secondary/80 max-w-4xl mx-auto">
             Your trusted partner in Dholera Smart City real estate. With over 15 years of experience, 
-            we've built our reputation on transparency, expertise, and exceptional client service.
+            we&apos;ve built our reputation on transparency, expertise, and exceptional client service.
           </p>
         </div>
       </section>
@@ -143,10 +142,10 @@ export default function AboutPage() {
                 <p className="font-paragraph text-lg text-secondary/80 leading-relaxed">
                   Founded in 2009, PropPriyansh began as a vision to transform the real estate 
                   landscape in Dholera Smart City. What started as a small family business has 
-                  grown into one of the most trusted names in Gujarat's real estate sector.
+                  grown into one of the most trusted names in Gujarat&apos;s real estate sector.
                 </p>
                 <p className="font-paragraph text-lg text-secondary/80 leading-relaxed">
-                  We recognized early on that Dholera would become India's first planned smart city, 
+                  We recognized early on that Dholera would become India&apos;s first planned smart city, 
                   and we positioned ourselves to be at the forefront of this transformation. Our deep 
                   understanding of the local market, combined with our commitment to ethical practices, 
                   has helped over 1000 families find their dream properties.
@@ -247,7 +246,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="font-heading text-xl text-secondary mb-4">CLIENT-FIRST</h3>
                 <p className="font-paragraph text-secondary/70 text-sm">
-                  Every decision is made with our clients' best interests and satisfaction in mind.
+                  Every decision is made with our clients&apos; best interests and satisfaction in mind.
                 </p>
               </CardContent>
             </Card>
@@ -288,7 +287,7 @@ export default function AboutPage() {
                 <p className="font-paragraph text-primary mb-4">Founder & CEO</p>
                 <p className="font-paragraph text-secondary/70 text-sm">
                   15+ years of experience in Dholera real estate with deep market insights and 
-                  strategic vision for the company's growth.
+                  strategic vision for the company&apos;s growth.
                 </p>
               </CardContent>
             </Card>
@@ -430,7 +429,7 @@ export default function AboutPage() {
             READY TO WORK WITH US?
           </h2>
           <p className="font-paragraph text-lg text-secondary/80 max-w-3xl mx-auto mb-12">
-            Experience the difference of working with Dholera's most trusted real estate experts. 
+            Experience the difference of working with Dholera&apos;s most trusted real estate experts. 
             Contact us today for a free consultation.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

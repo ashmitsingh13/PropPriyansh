@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
-import { Image } from '@/components/ui/image';
 import { ServiceService } from '@/lib/data';
 import { Services } from '@/types';
 import { 
@@ -13,7 +12,6 @@ import {
   TrendingUp, 
   Users, 
   Shield, 
-  Award,
   Phone,
   Mail,
   CheckCircle,
@@ -341,7 +339,7 @@ export default function ServicesPage() {
             READY TO GET STARTED?
           </h2>
           <p className="font-paragraph text-lg text-secondary/80 max-w-3xl mx-auto mb-12">
-            Contact our expert team today for a free consultation. We'll help you navigate 
+            Contact our expert team today for a free consultation. We&apos;ll help you navigate 
             the Dholera real estate market with confidence and achieve your property goals.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -193,7 +193,7 @@ export default function HomePage() {
             
             <p className="font-paragraph text-lg lg:text-xl text-secondary/90 mb-8 leading-relaxed drop-shadow-sm">
               Discover exceptional residential and commercial properties in Dholera Smart City. 
-              Expert guidance rooted in Gujarat's rich heritage, transparent deals, and your dream property awaits.
+              Expert guidance rooted in Gujarat&apos;s rich heritage, transparent deals, and your dream property awaits.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -299,7 +299,7 @@ export default function HomePage() {
             <div className="font-paragraph text-highlightyellow mb-4">પસંદગીની મિલકતો</div>
             <p className="font-paragraph text-lg text-secondary/80 max-w-3xl mx-auto">
               Explore our handpicked selection of premium properties in Dholera Smart City, 
-              each offering exceptional value and modern amenities rooted in Gujarat's progressive vision.
+              each offering exceptional value and modern amenities rooted in Gujarat&apos;s progressive vision.
             </p>
           </div>
 
